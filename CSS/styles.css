@@ -2,6 +2,7 @@ body {
    margin: 0%;
    text-align: center;
    font-family: Tahoma, serif;
+   font-size: 25px;
 }
 
 p {
@@ -27,7 +28,7 @@ h3{
 }
 
 hr {
-    border: dotted#8b360e 6px;
+    border: dotted #8b360e 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
@@ -39,16 +40,13 @@ a {
     margin: 20px 20px;
     text-decoration: none;
     font-weight: bolder;
-
+    
 }
 
 a:hover {
     color: white;
 }
 
-a:visited {
-    color: red;
-}
 
 .widthforboth a {
     color: #ff7b00;
@@ -116,6 +114,10 @@ span {
     right: 200px;
 }
 
+.mountain {
+    width: 45%;
+}
+
 
 .skill-row {
     width: 50%;
@@ -125,7 +127,7 @@ span {
 }
 
 .contactme {
-    width: 40% ;
+    width: 35% ;
     margin: 40px auto;
 }
 
@@ -159,4 +161,5 @@ span {
     color: white;
     font-size: 1rem;
     padding: 10px 0;
+    font-size: 70%;
 }
