@@ -95,18 +95,20 @@ a:hover {
 
 .bottom-container {
     background: #66bfbf;
-    padding: 20px;
+    padding: 30px;
 }
 
 span {
     text-decoration: underline;
 }
 
-.bottom-cloud {
+/* .bottom-cloud {
     position: absolute;
     left: 200px;
     bottom: 300px;
 }
+
+*/
 
 .top-cloud {
     position: absolute;
@@ -159,6 +161,6 @@ span {
 
 .copyright {
     color: white;
-    font-size: 0.8rem;
-    padding: 10px 0;
+    font-size: 0.7rem;
+    padding: 15px 0;
 }
